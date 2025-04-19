@@ -69,12 +69,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/kadarpy/kadarpy/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📈 Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kadarpy&style=flat-square&color=blue)
