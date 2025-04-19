@@ -21,14 +21,16 @@
 
 ### 🚀 My Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)  
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apacheairflow)  
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)  
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 
 ---
 
