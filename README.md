@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadar Khan</h1>
+<h1 align="center">Hi, I'm Kadar Khan</h1>
 <h3 align="center">Aspiring Data Engineer | Python | SQL | Cloud | ETL | AI & ML Enthusiast</h3>
 
 <p align="center">
@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-🎓 AI & ML Graduate with Honors in Data Science  
-💻 I specialize in **ETL, SQL, Python, NLP**, and **data processing**  
-☁️ Theoretical knowledge of **AWS, GCP, Hadoop, Spark**  
+🎓 AI & ML Graduate with Honor's in Data Science  
+💻 I specialize in **ETL, SQL, Python, NLP**, and **data processing**
+☁️ Practical knowledge of **AWS, GCP, Hadoop, Spark**
 📈 Passionate about building scalable pipelines, dashboards & automations  
 📫 Email me: [kadar7715890925@gmail.com](mailto:kadar7715890925@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/kadar-khan-348006296](https://www.linkedin.com/in/kadar-khan-348006296)  
